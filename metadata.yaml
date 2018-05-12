@@ -1,0 +1,33 @@
+_repo: XerxesMakers-of-History_25351
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Jacob
+    aliases:
+    - Marianne
+    - Erodore
+    birthdate: 1803
+    deathdate: 1879
+    gutenberg_agent_id: '2136'
+    url: http://www.gutenberg.org/2009/agents/2136
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Abbott
+description: ''
+gutenberg_issued: '2008-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25351'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iran -- History -- To 640'
+- !lcsh 'Xerxes I, King of Persia, 519-465 or 4 B.C.'
+- !lcc 'DS'
+title: 'Xerxes
+
+  Makers of History'
+url: http://www.gutenberg.org/ebooks/25351
